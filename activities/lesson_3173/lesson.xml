@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="210" moduleid="3173" modulename="lesson" contextid="4000">
+  <lesson id="210">
+    <course>97</course>
+    <name>T5R2 Reading: Assessment and Student Goals   </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1468948829</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2191">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2192</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466106158</timecreated>
+        <timemodified>1469203153</timemodified>
+        <title>Aligning Assessment and Instruction with Goals</title>
+        <contents>&lt;p&gt;Read the brief webpage focused on aligning instruction and student goals.  The target audience for the piece is higher education and the perspective of the goals is from the teacher; however, the principles are sound for adult basic education as well.   Note that your discussion question for the reading is adapted from the “Ideas to consider” questions from the webpage. &lt;/p&gt;
+&lt;p&gt;&lt;i style="line-height: 1.231;"&gt;Aligning Goals with Your Course&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://assessment.georgetown.edu/courselevel/align-goals-with-curriculum/" target="_blank"&gt;http://assessment.georgetown.edu/courselevel/align-goals-with-curriculum/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Assessment. &lt;/em&gt;Georgetown.edu, Georgetown University, Washington DC&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Think about the assessment activities you use in your instruction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are any activities specifically targeted to assess your students’ mastery of their learning goals?  Why or why not? &lt;/li&gt;
+&lt;li&gt;Please provide one or more examples of assessment activities you use to assess mastery of student goals – or ones you wish to use (based on what you have learned in this course).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*Note that this website is rich in assessment information for the classroom and beyond.  You may wish to take time to explore its resources further.  &lt;a style="line-height: 1.231;" href="http://assessment.georgetown.edu/" target="_blank"&gt;http://assessment.georgetown.edu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4526">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466106158</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2192">
+        <prevpageid>2191</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466109312</timecreated>
+        <timemodified>1488324852</timemodified>
+        <title>Optional Readings/Resources - Topic 5 Goal Setting</title>
+        <contents>&lt;p&gt;&lt;strong&gt;Topic 5 - Goal Setting and Aligning Goals With Course Objectives&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The following resources provide detailed examples of the positive effects of using student goals in the classroom. &lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The Effects of Continuing Goal-Setting on Persistence in a Math Classroom&lt;/i&gt;&lt;br /&gt;&lt;a href="http://www.ncsall.net/index.html@id=331.html" target="_blank"&gt;http://www.ncsall.net/index.html@id=331.html &lt;/a&gt;&lt;br /&gt;Pamela Meader, Focus on Basics, Volume 4, Issue A, March 2000&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Set and Monitor Goals&lt;/i&gt;&lt;br /&gt;&lt;a href="https://lincs.ed.gov/programs/teal/guide/setgoals" target="_blank"&gt;https://lincs.ed.gov/programs/teal/guide/setgoals&lt;/a&gt;&lt;br /&gt;TEAL Just Write! Guide, February 2012&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4527">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466109312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4528">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466109312</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

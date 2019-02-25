@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="97" contextid="3959">
+  <shortname>Intro-Assessment-ABE</shortname>
+  <fullname>Introduction to Assessment for Adult Basic Education</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;This online course is designed for teachers, program administrators, and professional development providers who want to understand the present landscape of assessment in Adult Basic Education.  In this course, you will learn about the differences and uses of diagnostic, formative, and summative assessment, identify your stakeholders, and consider which assessment type might best suit their needs; you will explore the importance of involving students in assessment and of having students establish their own goals; and finally, you will learn that aligning assessments and instruction with student goals will help ensure that you are meeting your students’ needs.  You will also be introduced to LINCS and its resources, including the online assessment community where you will post an activity as a culminating experience of this course.  The intent of this course is to draw on participants’ current understanding and practice of assessment, introduce new information, and provide opportunities for participants to reflect on and improve their own practice with assessment. The objectives for the course are to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;learn the appropriate use of diagnostic, formative, and summative assessment;&lt;/li&gt;
+&lt;li&gt;identify your stakeholders, and consider which assessment type might best suit their needs;&lt;/li&gt;
+&lt;li&gt;understand the importance of involving students in assessment and of having students establish their own goals;&lt;/li&gt;
+&lt;li&gt;identify ways to conduct diagnostic or formative assessment in your classroom; &lt;/li&gt;
+&lt;li&gt;understand the importance of aligning assessments and instruction with student goals&lt;/li&gt;
+&lt;li&gt;become familiar with LINCS and what resources it has to offer. &lt;/li&gt;
+&lt;/ul&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>0</showgrades>
+  <newsitems>4</newsitems>
+  <startdate>1465963200</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1436369367</timecreated>
+  <timemodified>1469195524</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>7</numsections>
+  <hiddensections>1</hiddensections>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>5</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>1</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000205</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>82C0FC</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>DCEEFE</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
+  <category id="1">
+    <name>Active Course Development</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

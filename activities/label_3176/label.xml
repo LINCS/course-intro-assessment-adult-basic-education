@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="449" moduleid="3176" modulename="label" contextid="4003">
+  <label id="449">
+    <name>Reminder - if a  link is grey, review the previous...</name>
+    <intro>&lt;p&gt;&lt;span style="font-size: small;"&gt;Reminder - if a  link is grey, review the previous course activity to be sure it has been completed (marked with a completion checkmark out to the right).&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1436457376</timemodified>
+  </label>
+</activity>

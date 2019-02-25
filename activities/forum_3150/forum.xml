@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="523" moduleid="3150" modulename="forum" contextid="3977">
+  <forum id="523">
+    <type>eachuser</type>
+    <name>T2D1 Discussion: What Assessments Do You Use and Why? </name>
+    <intro>&lt;h4&gt;&lt;b&gt;Drawing on your reading, please post to the discussion board your response to the following questions:&lt;/b&gt;&lt;/h4&gt;
+&lt;p&gt;1)  Please share which assessments are used in your program and for what purpose(s) – diagnostic, formative, and/or summative.  Please use this format; adding more categories as needed:&lt;/p&gt;
+&lt;p&gt;Assessment 1:&lt;/p&gt;
+&lt;p&gt;Purpose(s):&lt;/p&gt;
+&lt;p&gt;Assessment 2:&lt;/p&gt;
+&lt;p&gt;Purpose(s):&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;(And so on as needed.)  &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;2) Considering the assessments and purposes you listed above, please comment on whether or not they meet your needs and the needs of your students.  If not, how could this be improved?&lt;/p&gt;
+&lt;p&gt;After you post, please take time to review others' introductions in the discussion, and post at least one reply in response.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Once You Have Completed Your Post:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Click on Intro-Assessment-ABE link at the top (or at left under "my Courses") &lt;/b&gt;to return to the Course Outline and access the next course activity.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>3</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1468606987</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

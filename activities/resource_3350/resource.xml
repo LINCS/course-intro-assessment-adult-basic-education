@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="258" moduleid="3350" modulename="resource" contextid="4231">
+  <resource id="258">
+    <name>Introduction to Assessment for Adult Basic Education Resource List</name>
+    <intro>&lt;p&gt;Word format&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1508435540</timemodified>
+  </resource>
+</activity>

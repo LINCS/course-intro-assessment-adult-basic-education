@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="205" moduleid="3161" modulename="lesson" contextid="3988">
+  <lesson id="205">
+    <course>97</course>
+    <name>T3R3 Reading/Online Activity: Participating in the LINCS Community of Practice</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1467727545</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2177">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2178</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466187759</timecreated>
+        <timemodified>0</timemodified>
+        <title>LINCS Community of Practice</title>
+        <contents>&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;The Topic 2 Optional Activity asked you to explore the LINCS community via the online search tool. Now we would like you to examine this LINCS resource in more depth – actually join the Community and at least one Discussion Group.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;b style="line-height: 1.231;"&gt;Why Join the Community of Practice (CoP)?&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The LINCS CoP is a professional learning space that brings together adult educators worldwide to work together toward one common goal—providing high-quality, evidence-based learning opportunities to adult students. The LINCS CoP is a place where the field can seek help, collaborate, network, share knowledge and resources, participate in special events, and grow professionally.&lt;/p&gt;
+&lt;p&gt;While membership in the community is not required to read and search community posts, members gain the ability to actively engage in community conversations, greatly enhancing their own professional understanding and skills. Members may engage in the community by joining one or more discussion groups and then participating in a number of ways at different ‘levels’ of intensity depending on your current needs and time limits.&lt;/p&gt;
+&lt;p&gt;Let’s take a look at the different ways members can participate in the LINCS CoP.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4500">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466187759</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2178">
+        <prevpageid>2177</prevpageid>
+        <nextpageid>2179</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466187829</timecreated>
+        <timemodified>1469202530</timemodified>
+        <title>LINCS Community Participation</title>
+        <contents>&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Levels of Participation in the LINCS CoP/Discussion Groups&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Subscribing/Reading&lt;/b&gt; – Upon joining a Discussion Group, members can choose whether to receive notifications about group conversations via e-mail, or to read only via the web. For help with notification settings, visit: &lt;a href="https://community.lincs.ed.gov/help/how-do-i-change-my-email-notification-subscription-settings" target="_blank"&gt;https://community.lincs.ed.gov/help/how-do-i-change-my-email-notification-subscription-settings&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Bookmarking/Sharing&lt;/b&gt; – Members can curate conversations and ideas found within the community for themselves or others using the Bookmark feature to collect favored resources under the Bookmark tab in their own profile.  Discussion posts may also easily share favored posts via common social media tools such as Facebook, LinkedIn and Twitter.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Liking/Commenting&lt;/b&gt; – Members can respond to posted ideas by ‘liking’ them (clicking the like button) or by posting a comment. Comments can respond to posed questions, share additional experiences or ideas and/or pose questions for the community.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Starting a Discussion &lt;/b&gt;– In a more active role, members can start/post a new discussion  - posing an idea, resource or question to the community that addresses one or more of the group’s interest areas.  For assistance with Discussions/Commenting, visit: &lt;a href="https://community.lincs.ed.gov/help/how-do-i-create-new-discussion-or-comment-existing-discussion" target="_blank"&gt;https://community.lincs.ed.gov/help/how-do-i-create-new-discussion-or-comment-existing-discussion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the culminating activity for this course, we will ask you to participate in an online conversation within the Assessment Discussion Group.  To get you started towards this task, we ask you to become members of the LINCS CoP, or, if you are already a member, to share your experiences as CoP members.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4501">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466187829</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4502">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466187829</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2179">
+        <prevpageid>2178</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466187943</timecreated>
+        <timemodified>1466187974</timemodified>
+        <title>Joining the LINCS Community</title>
+        <contents>&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Online Activity – Join the LINCS Community and/or a Discussion Group:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Please complete one of the tasks below and share the results of your explorations with peers in the following Discussion Forum:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you &lt;i&gt;are not yet&lt;/i&gt; a member of the LINCS Community, please:
+&lt;ul&gt;
+&lt;li&gt;Create a new account and log in.  &lt;br /&gt; For assistance in this process, visit: &lt;a href="https://community.lincs.ed.gov/help/how-do-i-create-new-account-or-register-community" target="_blank"&gt;https://community.lincs.ed.gov/help/how-do-i-create-new-account-or-register-community&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;Review the list of available discussion groups and join at least one (it does not have to be the Assessment discussion group; you can join that later).  &lt;br /&gt; For assistance, visit: &lt;a href="https://community.lincs.ed.gov/help/how-do-i-join-or-leave-group" target="_blank"&gt;https://community.lincs.ed.gov/help/how-do-i-join-or-leave-group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Be prepared to share with course participants which discussion group you joined and why.&lt;/b&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;If you &lt;i&gt;already are&lt;/i&gt; a member of the LINCS Community, please:
+&lt;ul&gt;
+&lt;li&gt;Log in and review your discussion groups for current activity and upcoming events. Feel free to join another group (like Assessment!).  &lt;br /&gt; For reminders/assistance visit: &lt;a href="https://community.lincs.ed.gov/page/help" target="_blank"&gt;https://community.lincs.ed.gov/page/help&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Be prepared to share with course participants which discussion group(s) you are a member of and how you benefit from membership.&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4503">
+            <jumpto>2178</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466187943</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4504">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466187943</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4505">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466187943</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="522" moduleid="3147" modulename="forum" contextid="3974">
+  <forum id="522">
+    <type>eachuser</type>
+    <name>T1 Optional Discussion: Your LINCS Learning Portal Explorations  </name>
+    <intro>&lt;h3&gt;&lt;b&gt;O&lt;/b&gt;&lt;b style="line-height: 1.231;"&gt;ptional Discussion: &lt;br /&gt;Share Your Thoughts on the LINCS Learning Portal&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;b style="line-height: 1.231;"&gt;Based on your explorations of the offerings in the Learning Portal, please post your responses to the following discussion prompts:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What courses look interesting to you? Why?&lt;/li&gt;
+&lt;li&gt;What courses might assist you in developing your understanding and use of effective assessment practices?&lt;/li&gt;
+&lt;li&gt;If you’ve taken a LINCS self-paced online course before, please share your experience(s) with your peers.  What did you like? What advice would you give them?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After you post, please take time to review others' introductions in the discussion, and post at least one reply in response.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Note: &lt;/b&gt;This item will automatically mark itself complete on the main course outline once you have submitted a post.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b style="line-height: 1.231;"&gt;Once You Have Completed Your Post:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Click on the Intro-Assessment-ABE link at the top &lt;/strong&gt;(or at left under "my Courses") to return to the Course Outline and access the next course activity.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>3</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1466458522</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

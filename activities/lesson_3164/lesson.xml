@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="206" moduleid="3164" modulename="lesson" contextid="3991">
+  <lesson id="206">
+    <course>97</course>
+    <name>T4R1 Reading: Overview and Diagnostic Assessment</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1468245540</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2180">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2181</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466176654</timecreated>
+        <timemodified>0</timemodified>
+        <title>Topic 4 Overview and Diagnostic Assessment</title>
+        <contents>&lt;p&gt;&lt;b&gt;Topic Overview&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Now that you have taken a closer look at summative assessment, in particular standardized tests, this lesson focuses on assessment commonly used in the classroom – both diagnostic and formative assessment. &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong style="line-height: 1.231;"&gt;The Lesson Objectives for Topic 4 are to:&lt;/strong&gt;&lt;b style="line-height: 1.231;"&gt; &lt;/b&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;be able to describe and provide examples of diagnostic and formative assessment;&lt;/li&gt;
+&lt;li&gt;explain why student involvement in assessment is important;&lt;/li&gt;
+&lt;li&gt;describe various ways to involve students in assessment;&lt;/li&gt;
+&lt;li&gt;review your progress on course goals;&lt;/li&gt;
+&lt;li&gt;optional: select one classroom assessment activity to try with students.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;below to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4506">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176654</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2181">
+        <prevpageid>2180</prevpageid>
+        <nextpageid>2182</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466176713</timecreated>
+        <timemodified>1469202617</timemodified>
+        <title>Diagnostic Assessment</title>
+        <contents>&lt;p&gt;In the first lesson, you completed a pre-course assessment to gauge your level of general assessment knowledge – a diagnostic assessment.  Diagnostic assessment takes many forms:  surveys (like the one you took), questionnaires, oral and aural quizzes, for example; it can be conducted both individually and in groups, and can happen both as a planned activity as well as spontaneously.  For example, informal conversations before class with students provide an opportunity for the teacher to identify areas of strength and weakness in listening and speaking skills.  This spontaneous assessment of a student’s skills is in fact a performance assessment, and in fact many diagnostic activities are.  You will read more about performance assessment later in this lesson. &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4507">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176713</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4508">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176713</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2182">
+        <prevpageid>2181</prevpageid>
+        <nextpageid>2183</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466176801</timecreated>
+        <timemodified>1469202662</timemodified>
+        <title>View a Sample Diagnostic Assessment:</title>
+        <contents>&lt;p&gt;The video linked below is one in a series that present individual diagnostic testing on the four major components of reading (oral reading rate, word meaning vocabulary, spelling, and word recognition).  These videos are a part of the Assessment Strategies and Reading Profiles (ASRP) website from the LINCS Resource Collection.&lt;/p&gt;
+&lt;p&gt;We ask you to view the Learner Questionnaire Diagnostic Testing Video linked below, and be prepared to discuss your own use of diagnostic assessment with your peers.  Note that a shortened version of the questionnaire used in the video is available for download and classroom use (see Optional Resources).&lt;/p&gt;
+&lt;p&gt;View this video: &lt;i style="line-height: 1.231;"&gt;ASRP - Teacher/Student Session Introduction&lt;/i&gt; (using the Learner Questionnaire):&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/sphhVIPzJR8?list=PLImUeO1ttx1biHp5fHul5PxtIUIQU-sDd" target="_blank"&gt;https://youtu.be/sphhVIPzJR8?list=PLImUeO1ttx1biHp5fHul5PxtIUIQU-sDd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Have you used a questionnaire in this way before?  If so, what was your experience using it?  If not, how might you incorporate such a diagnostic tool into your instruction?&lt;/li&gt;
+&lt;li&gt;Think of a diagnostic assessment activity – either spontaneous or as a planned activity – that you have used in your classroom.  How well did it provide you with necessary information to guide instruction?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4509">
+            <jumpto>2180</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176801</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4510">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176801</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4511">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176801</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2183">
+        <prevpageid>2182</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466176881</timecreated>
+        <timemodified>1469202688</timemodified>
+        <title>Resources for Optional/Further Study</title>
+        <contents>&lt;p&gt;About the &lt;b&gt;ASRP Learner Questionnaire &lt;/b&gt;(includes pdf and html download versions):&lt;b&gt; &lt;/b&gt;&lt;a href="https://lincs.ed.gov/readingprofiles/MC_Questionnaire.htm" target="_blank"&gt;https://lincs.ed.gov/readingprofiles/MC_Questionnaire.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Assessment Strategies and Reading Profiles website link and citation in the LINCS Resources Collection: &lt;a style="line-height: 1.231;" href="https://lincs.ed.gov/readingprofiles/index.htm" target="_blank"&gt;https://lincs.ed.gov/readingprofiles/index.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4512">
+            <jumpto>2180</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4513">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4514">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466176881</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

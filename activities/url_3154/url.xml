@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="132" moduleid="3154" modulename="url" contextid="3981">
+  <url id="132">
+    <name>T2D3 Discussion: Revisit Your Course Goals</name>
+    <intro>&lt;p style="margin-left: 30px;"&gt;Based on what you have learned in Topic 2, consider the goal(s) you set in Topic 1.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;Are you satisfied that you chose the right goal(s) to work toward? &lt;/li&gt;
+&lt;li&gt;Post a reply with any changes to your goal(s) and why you changed it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://lincs-ovae-moodle-dev.civicactions.net/mod/forum/view.php?id=3141</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1488394751</timemodified>
+  </url>
+</activity>

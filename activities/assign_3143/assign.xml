@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="252" moduleid="3143" modulename="assign" contextid="3970">
+  <assign id="252">
+    <name>T1A1 Upload Your Pre-Course Self-Assessment </name>
+    <intro>&lt;p&gt;&lt;b&gt;Upload Your Pre-Course Self-Assessment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;Please follow these steps to complete and upload your pre-course self-assessment for facilitator review.&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Step 1) &lt;/b&gt;If you have not already done so, please select one version of the blank self-assessment to download and save to your computer.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Intro-Assessment-ABE: Pre-Course Self-Assessment Survey" href="@@PLUGINFILE@@/ABT1-Pre-Courseself-Assessment.rtf"&gt;&lt;em&gt;Assessment Basics Pre-Course-Self-Assessment&lt;/em&gt; &lt;/a&gt;(.rtf format - with table)&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" title="Intro-Assessment-ABE: Pre-Course Self-Assessment Survey" href="@@PLUGINFILE@@/ABT1-Pre-Courseself-Assessment.docx"&gt;&lt;em&gt;Assessment Basics Pre-Course Self-Assessment&lt;/em&gt;&lt;/a&gt; (.docx format - without table)&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Step 2) &lt;/b&gt;Type your responses into the self-assessment document and SAVE this version to your computer.&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Step 3)&lt;/b&gt; Upload and Save your completed survey:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Click on the "Add Submission" button&lt;/b&gt; below.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Click and drag your file into the File Submissions box&lt;/b&gt; to upload it to the course.&lt;br /&gt; (or click on the document upload button in the upper left of the file submissions box, and follow instructions to identify and upload the file).&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Click on the Save Changes button&lt;/b&gt; below the file submissions box to complete the process.&lt;br /&gt; NOTE: if you skip this step, your document will NOT be in the system and this activity will not be complete.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b&gt;NOTE: &lt;/b&gt;&lt;span style="color: #ff0000;"&gt;&lt;b&gt;Your self-assessment assignment is NOT submitted until you CLICK ON the Save Changes button below.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Only you or your facilitator will be able to view your uploaded self-assessment.&lt;/p&gt;
+&lt;div align="center"&gt;&lt;hr align="center" size="2" width="100%" /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Once You Have Submitted Your Self-Assessment:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Click on the Assessment for ABE link at the top (or at left under "my Courses") &lt;/b&gt;to return to the Course Outline and access the next course activity.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1478028139</timemodified>
+    <completionsubmit>1</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>untilpass</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="1911">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="1912">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1913">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1914">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="1915">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1916">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1917">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1918">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="1919">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

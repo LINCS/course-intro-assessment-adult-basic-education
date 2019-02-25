@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="133" moduleid="3169" modulename="url" contextid="3996">
+  <url id="133">
+    <name>T4D3 Discussion: Review and Report on Your Course Goals</name>
+    <intro>&lt;p style="margin-left: 30px;"&gt;Based on Topics 3 and 4, review your course goals and share with others any progress you have made toward meeting the goal(s) you set for yourself in lesson one. &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://lincs-ovae-moodle-dev.civicactions.net/mod/forum/view.php?id=3141</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1488394867</timemodified>
+  </url>
+</activity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="533" moduleid="3175" modulename="forum" contextid="4002">
+  <forum id="533">
+    <type>eachuser</type>
+    <name>T5 OPTIONAL Activity &amp; Discussion: Post to a LINCS Discussion Group </name>
+    <intro>&lt;p&gt;&lt;b&gt;Optional Activity – Strengthening Your Participation in the LINCS CoP/Discussion Group&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Previously, we asked you to join the LINCS Community of Practice and at least one Discussion Group. &lt;strong&gt;Now we ask you to more actively participate in one or more groups by posting either:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;One meaningful comment&lt;/strong&gt; in an existing discussion (reply to a question, share a resource, experience or idea, or pose a question), or&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A new discussion topic&lt;/strong&gt; relating to the group’s interests (share a resource or idea and/or pose a question to the group).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Optional Discussion:&lt;br /&gt;&lt;/b&gt;Once your comment/post is complete, copy the web page link and share the link with your peers via the Reply link below.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Enhance your Community Participation further:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Visit at least one peer’s post on the LINCS CoP and respond in some way (like it, share it via social media, or reply with a comment). You may have to join their Discussion Group in order to respond.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Once You Have Completed Posting Your Replies:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;R&lt;/b&gt;&lt;b&gt;eturn to the Course Outline &lt;/b&gt;(from the LINCS CoP or the discussion below)&lt;b&gt; to access the next course activity.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>1</maxbytes>
+    <maxattachments>0</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1496334411</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

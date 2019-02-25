@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="207" moduleid="3166" modulename="lesson" contextid="3993">
+  <lesson id="207">
+    <course>97</course>
+    <name>T4R2 Reading: Formative Assessment  </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1468252883</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2184">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2185</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466177170</timecreated>
+        <timemodified>1468879199</timemodified>
+        <title>About Formative Assessment</title>
+        <contents>&lt;p&gt;Formative assessment requires that the student &lt;i style="line-height: 1.231;"&gt;demonstrate&lt;/i&gt; skill or knowledge.  Such demonstration can often best be captured by a performance assessment, rather than by a selected response test, which asks students to choose a correct response from among several answers presented.  For example, the best way to assess a student’s oral language skill is to listen to them speak.  So, you might create a lesson that asks the student to make an oral presentation, and include a scoring guide – or rubric - for assessing the student’s speech to help you gauge their performance.  Click on the link below to view an example of a rubric:&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" title="Sample Oral Presentation Rubric for English Language Learners" href="@@PLUGINFILE@@/T4-Sample%20Rubric.pdf"&gt;Sample Oral Presentation Rubric&lt;/a&gt; (pdf format)&lt;/p&gt;
+&lt;p&gt;Better still, you might decide to include the student in helping you create the lesson and the rubric, so the student becomes an equal partner in what he or she will be tested on.   In other words, involving your students in self-assessment ensures that the student is invested in the process (a stakeholder), has a clear understanding of the goals to be achieved (because they helped to establish them), and has command of determining whether those goals have been met (they must decide if they have met their own expectations).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4515">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466177170</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2185">
+        <prevpageid>2184</prevpageid>
+        <nextpageid>2186</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466177277</timecreated>
+        <timemodified>1469476507</timemodified>
+        <title>Formative Assessment Activity</title>
+        <contents>&lt;p&gt;&lt;b&gt;Video Activity – Formative Assessment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The video from New American Horizons linked below shows teachers conducting activities that demonstrate various forms of classroom assessment.  We ask you to select and view one section of the video &lt;i&gt;Assessing Learning in the Adult ESL Classroom – &lt;/i&gt;&lt;b&gt;we do NOT ask you to view the WHOLE 25 minute video.&lt;/b&gt;  While you watch your selected segment, make note of specific activities that strike you and be prepared to discuss your questions and thoughts with others.&lt;/p&gt;
+&lt;p&gt;Sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Times 2:40-5:30:  &lt;b&gt;Aligning instructional goals, objectives and outcomes&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Times 5:30-12:24:  &lt;b&gt;Assessing in a variety of ways&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Times 12:24-18:40:  &lt;b&gt;Assessing using the task-based approach&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Times 18:40-21:30:  &lt;b&gt;Assessment as an on-going process&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;Times 21:30-23:38:  &lt;b&gt;Providing feedback/student self-assessment &lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;New American Horizons video &lt;i style="line-height: 1.231;"&gt;Assessing Learning in the Adult ESL Classroom*&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a title="Assessing Learning in ESL - New Horizons video" href="https://youtu.be/OCnt5ZpDFuQ"&gt;Assessing Learning in the Adult ESL Classroom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;As you watch your selected video segment, make note of your responses to the following discussion prompts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What questions do you have about the assessment activities in the video section you chose?&lt;/li&gt;
+&lt;li&gt;Can you provide more examples of how you use this form of assessment with your learners? (Or how you would like to use this form of assessment with your learners?)&lt;b&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;* This video may also be viewed online here: &lt;span style="color: #008000;" color="#008000"&gt;&lt;a title="Assessing learning in the ESL Calssroom - public viewing" href="http://bcove.me/dn3gtalv"&gt;http://bcove.me/dn3gtalv&lt;/a&gt; &lt;/span&gt;&lt;span style="color: #008000;" color="#008000"&gt;&lt;span style="color: #000000;"&gt;- note that there may be a delay in loading.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;“Assessing Learning in the ESL Classroom” is ©2011 &lt;a title="New Horizons Foundation" href="http://www.newamericanhorizons.org/" target="_blank"&gt;New American Horizons Foundation&lt;/a&gt; and available for use under &lt;a title="Creative Commons Attrovution-Shrae Alike 3.0 US license" href="https://creativecommons.org/licenses/by-sa/3.0/us/" target="_blank"&gt;Creative Commons Attribution-Share Alike 3.0 United States License&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4516">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466177277</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4517">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466177277</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2186">
+        <prevpageid>2185</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466183144</timecreated>
+        <timemodified>1512665393</timemodified>
+        <title>Resources for Optional/Further Study</title>
+        <contents>&lt;p&gt;&lt;b&gt;Diagnostic and Formative Assessment – Classroom Assessment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The following resources provide research on, and examples of, practical application of various types of classroom assessment.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;&lt;a href="http://downloads.pearsonassessments.com/ati/downloads/afldefined.pdf" target="_blank"&gt;Assessment FOR Learning Defined&lt;br /&gt;&lt;/a&gt;&lt;/i&gt;Rick Stiggins, 2005&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i style="line-height: 1.231;"&gt;&lt;a href="https://weaeducation.typepad.co.uk/files/blackbox-1.pdf" target="_blank"&gt;Inside the Black Box:  Raising Standards Through Classroom Assessment&lt;br /&gt;&lt;/a&gt;&lt;/i&gt;Paul Black and Dylan Wiliam, King’s College London School of Education, November 1998&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;&lt;a href="http://cei.ust.hk/files/public/assessment_matters_self-assessment_peer_assessment.pdf" target="_blank"&gt;Assessment Matters:  Self Assessment and Peer Assessment&lt;br /&gt;&lt;/a&gt;&lt;/i&gt;Dorothy Spiller, February 2012&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4518">
+            <jumpto>2184</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466183144</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4541">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466183144</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4542">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466183144</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="211" moduleid="3177" modulename="lesson" contextid="4004">
+  <lesson id="211">
+    <course>97</course>
+    <name>T6R1 Reading: Topic Overview and Reflecting on Your Course Experience</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1468948881</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2193">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2194</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466087109</timecreated>
+        <timemodified>1469203211</timemodified>
+        <title>Reading: Topic Overview and Reflecting on Your Course Experience</title>
+        <contents>&lt;p&gt;&lt;strong&gt;Course Summary&lt;/strong&gt;&lt;br /&gt;In this course, you learned about the differences and uses of diagnostic, formative, and summative assessment, identified your stakeholders, and considered which assessment type might best suit their needs; you explored the importance of involving students in assessment and of having students establish their own goals; and you learned that aligning instruction with student goals will help ensure that you are meeting your students’ needs. In addition, you were introduced to LINCS and the many resources that it provides for adult education practitioners.&lt;/p&gt;
+&lt;p&gt;Now it is time to reflect on this learning, and consider some next steps for the future. You have already engaged in a couple of activities during the course that will help demonstrate your learning, as well as provide you direction for applying new ideas in your classroom. We will revisit these activities.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;The Lesson Objectives for Topic 6 are to:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reflect on and evaluate your experience using a set of reflection questions;&lt;/li&gt;
+&lt;li&gt;complete the post-course assessment and compare your answers to the pre-course assessment you took in lesson 1;&lt;/li&gt;
+&lt;li&gt;report on progress you have made toward your chosen goal;&lt;/li&gt;
+&lt;li&gt;apply what you have learned by creating a plan to implement an assessment activity from the course with your learners.&lt;/li&gt;
+&lt;li&gt;participate in the LINCS Assessment Discussion Group by sharing your plan&lt;/li&gt;
+&lt;li&gt;Optional: report out on any activities you tried hands-on with your learners during the course.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;_____________________________________________________________________&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4529">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466087109</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2194">
+        <prevpageid>2193</prevpageid>
+        <nextpageid>2195</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466087306</timecreated>
+        <timemodified>1469208883</timemodified>
+        <title>Reflecting on Your Experience</title>
+        <contents>&lt;p&gt;&lt;strong&gt;Reflecting on Your Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let’s begin by considering your own experience in the course. To guide your reflections, we will use an adapted version of Dr. Stephen Brookfield’s Classroom Critical Incident Questionnaire (CCIQ). These questions ask you to reflect on more abstract feelings and reactions, rather than on, for example, your performance conducting a specific activity. This questionnaire is normally used to reflect on your practice as a teacher, but the questions are also valuable for self-reflection as a student. You can easily adapt the questionnaire to use with your own students by substituting “lesson” or “activity” (for example) in place of “course”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Click on one of the links below to access and complete the questionnaire.&lt;/strong&gt; &lt;br /&gt;Instructions are included at the top of the questionnaire. &lt;br /&gt;[Remember to save the version you select to a known location on your computer!]&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ABT6R1-CCIQBrookfield.rtf"&gt;&lt;em&gt;Classroom Critical Incident Questionnaire&lt;/em&gt;&lt;/a&gt; (CCIQ) in .rtf format&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ABT6R1-CCIQBrookfield.rtf"&gt;&lt;em&gt;&lt;/em&gt;&lt;/a&gt;&lt;a title="Critical Incident Questionnaire" href="@@PLUGINFILE@@/ABT6R1-CCIQBrookfield.docx"&gt;&lt;em&gt;Classroom Critical Incident Questionnaire&lt;/em&gt;&lt;/a&gt; (CCIQ) in .docx format (formatted for screen readers)&lt;/p&gt;
+&lt;p&gt;Once you have completed the questionnaire, consider the following questions for discussion with your peers.&lt;/p&gt;
+&lt;p&gt;Questions for Discussion&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do you feel about this reflection tool, considering that the questions are focused on abstract feelings and reactions?&lt;/li&gt;
+&lt;li&gt;Would you use a similar questionnaire with your students? Why or why not?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;____________________________________________________________________&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;Click on the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4530">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466087306</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4531">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466087306</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2195">
+        <prevpageid>2194</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466087505</timecreated>
+        <timemodified>1469203290</timemodified>
+        <title>Optional Readings/Resources</title>
+        <contents>&lt;p&gt;&lt;b&gt;Reflections and Planning for the Future&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The following resource provides research and classroom examples from teachers who use authentic materials in the classroom. The resource includes an extensive section on authentic assessment.  &lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Creating Authentic Materials and Activities for the Adult Literacy Classroom - A Handbook for Practitioners&lt;br /&gt; &lt;/i&gt;Erik Jacobson, Sophie Degener, Victoria Purcell-Gates, NCSALL, 2003&lt;br /&gt; &lt;a href="http://www.ncsall.net/fileadmin/resources/teach/jacobson.pdf"&gt;http://www.ncsall.net/fileadmin/resources/teach/jacobson.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;__________________________________&lt;/b&gt;&lt;b&gt;___________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to r&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;span style="color: #008000;"&gt;eturn the the Course Outline&lt;/span&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4532">
+            <jumpto>2193</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466087505</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4545">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466087505</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4546">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466087505</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

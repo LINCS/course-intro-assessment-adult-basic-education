@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="212" moduleid="3180" modulename="lesson" contextid="4007">
+  <lesson id="212">
+    <course>97</course>
+    <name>T6R2 Culminating Activity: Sharing Assessment Activity Plans</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1470058626</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2196">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2197</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466090853</timecreated>
+        <timemodified>1469203325</timemodified>
+        <title>Select an Activity to Try with Your Learners</title>
+        <contents>&lt;p&gt;&lt;b&gt;Make and Share Plans with the LINCS Community&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Now is the time to plan for the future while new material is fresh in your mind! We ask you to select an activity that you learned about in the course, plan how you will conduct it with your learners,* and then share your plans with the LINCS Assessment Discussion Group.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Step 1) Select an Activity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To help you select an activity, we’ve listed some suggestions below. &lt;strong&gt;In addition, you may also choose any other assessment-related activity you learned about during the course&lt;/strong&gt; discussions and readings:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Topic 3 -  standardized assessment - &lt;/b&gt;you learned about and discussed various strategies that help adult learners be better prepared for taking tests in the article &lt;i&gt;How to Do Your Best on Standardized Tests:  Some Suggestions for Adult Learners. &lt;/i&gt;&lt;b&gt;Use the choice you posted to the discussion that you felt could potentially help your students improve their performance – either on a test or with regular classroom activities.  &lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Topic 4 - classroom assessment&lt;/b&gt; - you viewed formative assessment activities in the New American Horizons video &lt;i&gt;Assessing Learning in the Adult ESL Classroom. &lt;/i&gt;&lt;b&gt;Use the formative assessment activity you chose to discuss with peers as one you’d like to try with your learners.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Topic 5 - student goal-setting &lt;/b&gt;- you browsed an extensive listing of goal-setting activities to support and guide instruction and assessment. &lt;b&gt;Use the activity that interested you and that you shared with peers in the discussion.&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*&lt;strong&gt;If you do not currently work with adult education learners&lt;/strong&gt; (if you are a supervisor, for example), we ask that you make a plan:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;a) to use one or more of these assessment practices with your peers or employees (ex: as a team-building exercise, or as a training tool/example) &lt;br /&gt; OR&lt;br /&gt;b) as if you *are going* to have a group of adult learners soon. As a new or returning instructor, what would you want to know? For what purpose?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4533">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466090853</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2197">
+        <prevpageid>2196</prevpageid>
+        <nextpageid>2198</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466091138</timecreated>
+        <timemodified>1469203350</timemodified>
+        <title>Make a Plan and Share With LINCS</title>
+        <contents>&lt;p&gt;&lt;b&gt; Step 2) Make a Plan&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Use the Activity Planning Form linked below to help you prepare to conduct your chosen activity with your learners.  Select one format of the plan document to download and save to a known location on your computer, write up your plans, then save your work.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Activity Planning Form .rtf" href="@@PLUGINFILE@@/SBT6CA-ActivityPlanningForm.rtf" target="_blank"&gt;Assessment Activity Planning Form&lt;/a&gt; (.rtf format - with table)&lt;/p&gt;
+&lt;p&gt;&lt;a title="Activity Planning form" href="@@PLUGINFILE@@/SBT6CA-ActivityPlanningForm2.docx" target="_blank"&gt;Assessment Activity Planning Form&lt;/a&gt; (.docx format - without table)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Step 3) Share Your Plan with the LINCS Assessment Discussion Group&lt;/b&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;In another tab/window, log in to the LINCS Community - click on the link below and then use the log/in register link in the upper right to log in:&lt;br /&gt; &lt;a href="https://community.lincs.ed.gov/"&gt;https://community.lincs.ed.gov/&lt;/a&gt; &lt;br /&gt;[If you haven’t already joined the LINCS Assessment Discussion Group, do so next: &lt;a href="https://community.lincs.ed.gov/group/assessment" target="_blank"&gt;https://community.lincs.ed.gov/group/assessment ]&lt;br /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Then use the link below to find the right location for posting your Plan&lt;/b&gt; as a comment to the the Assessment course thread for this course.&lt;br /&gt;&lt;span style="color: #000000; background-color: #ffff00;"&gt;&lt;a href="https://community.lincs.ed.gov/discussion/assessment-ae-online-course-plans-vt-aug-2015" target="_blank"&gt;&lt;span style="color: #000000; background-color: #ffff00;"&gt;[&lt;/span&gt;&lt;/a&gt;Course moderator, insert the correct link to a https://community.lincs.ed.gov/discussion/[yourpost address here&lt;a href="https://community.lincs.ed.gov/discussion/assessment-ae-online-course-plans-vt-aug-2015" target="_blank"&gt;&lt;span style="color: #000000; background-color: #ffff00;"&gt;]&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt; NOTE – you can’t upload the planning document itself to the discussion, so please share a description of your upcoming lesson from your plan.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Step 4) Participate in the Discussion&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Once you have posted your plan, review what others have posted and engage in the community assessment discussion – reply to or even just ‘like’ comments in the discussion. (If you post early, you may need to revisit the discussion again later.)&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Optional: &lt;/b&gt;We encourage you continue your professional development by exploring and participating in other conversations in the Assessment Discussion Group over the months to come!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;___________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4534">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466091138</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4535">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466091138</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2198">
+        <prevpageid>2197</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466091593</timecreated>
+        <timemodified>1469203400</timemodified>
+        <title>Completing the Assessment Basics Course</title>
+        <contents>&lt;p&gt;You are almost done!  Below we’ve listed the last few things you need to know or do in order to complete this online course.&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Culminating Activity Completion&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Unlike other assignments in this course, your facilitator must verify that you have completed this culminating activity OUTSIDE the course (that you have posted to the LINCS CoP as directed). Within one working day (or the course end date), this activity should receive a ‘grade’ of 100 (complete- met requirements), 50 (incomplete, or 0 (post missing). Contact your facilitator if you have any questions about completion of this activity.&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Final Report on Goals&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Once you exit this lesson, you should see a link to the last required course activity. We ask you to return one last time to the Introductions and Goals discussion forum and reply with a final report on your goals for the course.&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Course Completion Certificate:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Once your culminating activity is marked complete, and you have posted your final report in the Goals Discussion forum, you will be able to download a course completion certificate showing 12 hours of professional development. &lt;span style="color: #ff0000;"&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;LINCS Online Course Evaluation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We ask that you provide us with feedback on this course in order to improve the LINCS online professional development offerings.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;___________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4536">
+            <jumpto>2196</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466091593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4537">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466091593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4538">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466091593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

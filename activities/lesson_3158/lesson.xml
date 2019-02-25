@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="203" moduleid="3158" modulename="lesson" contextid="3985">
+  <lesson id="203">
+    <course>97</course>
+    <name>T3R2 Reading: Helping Students to Succeed on Standardized Assessments  </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1467727503</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2175">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466186615</timecreated>
+        <timemodified>1469202480</timemodified>
+        <title>Helping Students to Succeed with Standardized Assessment</title>
+        <contents>&lt;p&gt;In the article linked below, the authors provide an overview of standardized testing and give practical suggestions for helping adult students demonstrate their knowledge and skills on standardized tests. The authors contend that if adult students are equipped with basic knowledge about standardized tests and proven test-taking approaches, they will be better able to demonstrate their true skills and abilities.&lt;/p&gt;
+&lt;p&gt;&lt;i style="line-height: 1.231;"&gt;&lt;a title="How to do your best on Standardized tests" href="@@PLUGINFILE@@/ABT3R2-DoBestStandardizedTests.pdf"&gt;How to Do Your Best on Standardized Tests:  Some Suggestions for Adult Learners&lt;/a&gt;&lt;br /&gt;&lt;/i&gt;By Ronald K. Hambleton and Stephen; in Adventures in Assessment, Vol. 16, Spring 2004. UMass Amherst&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Considering the suggestions in the reading for helping adult students with standardized tests:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What do you already do to help adult learners be better prepared to succeed in on standardized assessments? How effective are these methods?&lt;/li&gt;
+&lt;li&gt;What might you like to try with your learners? Why?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4498">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466186615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

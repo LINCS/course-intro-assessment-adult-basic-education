@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="200" moduleid="3149" modulename="lesson" contextid="3976">
+  <lesson id="200">
+    <course>97</course>
+    <name>T2R1 Reading: Topic Overview and Types of Assessment </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1467637978</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2167">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2168</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466368594</timecreated>
+        <timemodified>1468871014</timemodified>
+        <title>Diagnostic, Formative and Summative Assessment</title>
+        <contents>&lt;p&gt;&lt;b&gt;Diagnostic, Formative and Summative Assessment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Now that you have considered some of your own and others’ experiences with assessment, taken a self-assessment to gauge your knowledge level, and chosen a course goal, it’s time to cover some fundamental information about the three types of assessment and the purposes of each.  This week, we’ll focus on diagnostic, formative and summative assessment, what each is best suited for, and who uses which type. &lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;The Lesson Objectives for Topic 2 are to:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;understand diagnostic, formative and summative assessment;&lt;/li&gt;
+&lt;li&gt;describe the different uses for each assessment;&lt;/li&gt;
+&lt;li&gt;identify the stakeholders in your program and their interests;&lt;/li&gt;
+&lt;li&gt;identify which assessments will yield the most useful information for each stakeholder.&lt;/li&gt;
+&lt;li&gt;become familiar with ways to search LINCS for adult education resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4482">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466368594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2168">
+        <prevpageid>2167</prevpageid>
+        <nextpageid>2169</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466368766</timecreated>
+        <timemodified>1469480913</timemodified>
+        <title>A Primer: Diagnostic, Formative and Summative Assessment </title>
+        <contents>&lt;p&gt;To begin, please read the article below, which outlines each of the types of assessment—diagnostic, formative, and summative—and discusses their specific uses. While each of these types serves different purposes and audiences, all three are important to combine if a clear snapshot of a student’s skills and abilities are to be measured. Diagnostic assessment reveals a student’s initial strengths and needs (where to start); formative assessment provides an on-going look at a student’s progress (how to proceed); and summative assessment provides an evaluation or culmination of a student’s effort and performance once a program of study has completed (what to conclude).&lt;/p&gt;
+&lt;p&gt;&lt;a title="A Primer: Diagnostic, Formative, and Summative Assessment" href="@@PLUGINFILE@@/ABT2R1-PrimerAssessmentTypes.pdf"&gt;&lt;em&gt;A Primer: Diagnostic, Formative, &amp;amp; Summative Assessment&lt;/em&gt;&lt;/a&gt; (pdf format)&lt;br /&gt;Resource from the LINCS Professional Development Resource Collection&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Now we ask you to consider the following questions for discussion with your peers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What assessments do you use in your program and for what purpose(s)?&lt;/li&gt;
+&lt;li&gt;Do you feel these assessments meet student’s needs? How could this be improved?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4484">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466368766</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4485">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466368766</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2169">
+        <prevpageid>2168</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466368854</timecreated>
+        <timemodified>1469202314</timemodified>
+        <title>Resources for Optional/Further Study</title>
+        <contents>&lt;p&gt;&lt;b&gt;Topic 2:  Diagnostic, Formative and Summative Assessment – An Overview&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The following research resource provides in-depth information on diagnostic, formative, and summative assessment, as well as a broader discussion on assessment in ABE, particularly in the area of teaching reading.&lt;/p&gt;
+&lt;p&gt;&lt;i style="line-height: 1.231;"&gt;Literacy Education in Adult Basic Education &lt;/i&gt;(examines literacy assessment)&lt;i style="line-height: 1.231;"&gt;   &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;John Kruidenier, Volume 3: Chapter Four, 2002, Review of Adult Learning and Literacy&lt;br /&gt; &lt;a href="http://www.ncsall.net/index.html@id=574.html" target="_blank"&gt;http://www.ncsall.net/index.html@id=574.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;You have completed this reading. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt; Click on the Next button below to &lt;/b&gt;&lt;b&gt;access the course outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4487">
+            <jumpto>2167</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466368854</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4488">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466368854</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4489">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466368854</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="197" moduleid="3140" modulename="lesson" contextid="3967">
+  <lesson id="197">
+    <course>97</course>
+    <name>CLICK HERE TO START - Reading: Course Overview and Week 1 Introductions </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1467381752</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2155">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2156</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466370521</timecreated>
+        <timemodified>1466803177</timemodified>
+        <title>Course Overview and Objectives</title>
+        <contents>&lt;p&gt;&lt;b&gt;Welcome to Assessment for Adult Basic Education&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Over the next 6 weeks, participants will work together remotely to explore and better understand the present landscape of assessment in Adult Basic Education and Literacy.  In this course, you will learn about the differences and uses of diagnostic, formative, and summative assessment, identify your stakeholders, and consider which assessment type might best suit their needs; you will explore the importance of involving students in assessment and of having students establish their own goals; and finally, you will learn that aligning student goals with your course objectives will help ensure that you are meeting your students’ needs. &lt;/p&gt;
+&lt;p&gt;You will also be introduced to LINCS and its resources, including the online assessment community where you will post an activity as a culminating experience of this course.  The intent of this course is to draw on participants’ current understanding and practice of assessment, introduce new information, and provide opportunities for participants to reflect on and improve their own practice with assessment.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Course Objectives&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Learn&lt;/strong&gt; the appropriate use of diagnostic, formative, and summative assessment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify&lt;/strong&gt; your stakeholders, and consider which assessment type might best suit their needs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Understand&lt;/strong&gt; the importance of involving students in assessment and of having students establish their own goals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify&lt;/strong&gt; ways to conduct diagnostic or formative assessment in your classroom.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Understand&lt;/strong&gt; the importance of aligning student goals with your course objectives. &lt;b&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Become familiar with&lt;/strong&gt; LINCS and what resources it has to offer.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;img width="360" height="138" style="float: left;" alt="Literacy Information and Communication System Logo" src="@@PLUGINFILE@@/lincs_logo_color_0.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Brought to you by the&lt;br /&gt; Literacy Information and Communication System (LINCS)&lt;i&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This course was developed under the LINCS Regional Professional Development Center for Adult Education, PR/Award Number V191B110003, administered by the Office of Career, Technical, and Adult Education, U. S. Department of Education. However, the contents do not necessarily represent the positions or policies of the Office of Career, Technical, and Adult&lt;/i&gt; &lt;i&gt;Education or the U.S.Department of Education, and you should not assume endorsement by the Federal Government.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4459">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466370521</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2156">
+        <prevpageid>2155</prevpageid>
+        <nextpageid>2157</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466370686</timecreated>
+        <timemodified>1508435635</timemodified>
+        <title>Course Schedule and Structure</title>
+        <contents>&lt;p class="style4"&gt;&lt;strong&gt;Course Schedule&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="style4"&gt;This is a 6-week course (approximately 2 hours of work per week).&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Week 1:  Participant Introductions and Interests&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Week 2:  Diagnostic, Formative and Summative Assessment – An Overview&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Week 3:  Summative Assessment – The Standardized Test&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Week 4:  Diagnostic and Formative Assessment = Classroom Assessment&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Week 5:  Goal Setting and Aligning Goals With Course Objectives&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;Week 6:  Reflections and Planning for the Future&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Assignment Due Dates: &lt;/b&gt;Your facilitator will send you a list of specific assignment due dates for this course via e-mail.  These due dates are designed to help you pace yourself in order to get the most out of this online professional development experience.  If you have any concerns about assignment due dates, please contact your course facilitator.&lt;/p&gt;
+&lt;p&gt;&lt;strong style="line-height: 1.231;"&gt;Course Structure&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="style4"&gt;Throughout this course you will be asked to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;post your reflections and share your thoughts with the facilitator and with each other;&lt;/li&gt;
+&lt;li&gt;read other participants’ reflections and respond;&lt;/li&gt;
+&lt;li&gt;read on-line texts and explore on-line resources;&lt;/li&gt;
+&lt;li&gt;complete individual activities;&lt;/li&gt;
+&lt;li&gt;reflect on how new knowledge and skill relate to or affect your experience;&lt;/li&gt;
+&lt;li&gt;apply new learning to your own situation;&lt;/li&gt;
+&lt;li&gt;learn about and use LINCS professional development resources. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Course Readings and Resources&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;All of the Required Readings and Optional Resources linked throughout the six course Topics are collected in the single document linked below. &lt;span style="color: black; font-family: 'Arial',sans-serif; font-size: 10pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;Click to download and save this pdf document for easy access to course resources even after you have completed the course.&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Required Readings, References and Optional Resources for Further Study" href="@@PLUGINFILE@@/IntoAssessABE_Resources.pdf" target="_blank"&gt;&lt;em&gt;Required Readings, References and Optional Resources for Further Study&lt;/em&gt;&lt;/a&gt; (pdf format)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4460">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466370686</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4461">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466370686</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2157">
+        <prevpageid>2156</prevpageid>
+        <nextpageid>2158</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466370804</timecreated>
+        <timemodified>1466456681</timemodified>
+        <title>Introductions</title>
+        <contents>&lt;p&gt;&lt;b&gt;Participant Introductions and Goals&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Before we move into the course material, let’s begin by getting to know others in the course as well as some of their interests in assessment.   As a part of this process, it’s also important to ‘get to know yourself’ by gauging your own knowledge and interests, and considering what you hope to learn by participating in this course.  Clarifying what you hope to achieve and setting clear learning goals serves as a guide to the learning process. This type of pre-course self-assessment helps provide a baseline from which to move forward in the learning process. &lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;GOALS&lt;/b&gt;: To strengthen this professional development experience, we will ask you to identify, share, and revisit your goal(s) throughout the course.&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Topic 1 Lesson Objectives:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get to know your co-participants and their interests.&lt;/li&gt;
+&lt;li&gt;Take a pre-course self-assessment to gauge your present level of general assessment knowledge. (You will take a post-course self-assessment to gauge your own learning of the course material).&lt;/li&gt;
+&lt;li&gt;Set at least one goal to achieve by taking this course. (You will have the opportunity to share your progress with others periodically throughout the course.)&lt;/li&gt;
+&lt;li&gt;Become familiar with LINCS and the Learning Portal as a resource for adult educators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4462">
+            <jumpto>2155</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466370804</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4463">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466370804</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4464">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466370804</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2158">
+        <prevpageid>2157</prevpageid>
+        <nextpageid>2159</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466371103</timecreated>
+        <timemodified>1466456748</timemodified>
+        <title>Skills for Successful Online Learning</title>
+        <contents>&lt;p&gt;It is important to note that, for most people, online learning can be a different experience from face learning.  If you have not taken another facilitated LINCS online course, we recommend that you take time to review the article linked at the bottom of the page, &lt;em&gt;&lt;span style="color: #ff0000;"&gt;&lt;strong&gt;Face to Face Learning vs. Online Learning&lt;/strong&gt;&lt;/span&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Building an Online Learning Community: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Your first Assignment in this course is to participate in an online Discussion – Introductions and Course Goals.&lt;/p&gt;
+&lt;p&gt;Discussions are designed as an important component of this online course. To enhance the learning experience for all participants, we encourage you to actively participate in course discussions by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Posting your thoughts in a timely manner&lt;/li&gt;
+&lt;li&gt;Reading and replying to other’s posts&lt;/li&gt;
+&lt;li&gt;Checking back to earlier discussion boards to respond to peer’s questions and comments.&lt;/li&gt;
+&lt;li&gt;Being respectful of the diverse points of view brought to this course by your peers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: you are not being evaluated on spelling, grammar or writing form in your discussion posts.  A casual, conversational tone to your writing is appropriate.&lt;/p&gt;
+&lt;p&gt; Your 2&lt;sup&gt;nd&lt;/sup&gt; assignment for this course is to complete a Pre-Course Self-Assessment on the topic of Assessment in Adult Basic Education.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4465">
+            <jumpto>2155</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4466">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4470">
+            <jumpto>2160</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4471">
+            <jumpto>2159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Face to Face vs Online Learning</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2159">
+        <prevpageid>2158</prevpageid>
+        <nextpageid>2160</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466371172</timecreated>
+        <timemodified>1469201314</timemodified>
+        <title>Face to Face Learning vs. Online Learning</title>
+        <contents>&lt;p&gt;What are some important differences between face-to-face workshops and asynchronous, discussion based courses offered online? As you review the list of key differences, think about which of these differences is the most important to you, personally, and what you might do to help yourself be a successful online learner.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Sequencing Course Information&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In a traditional classroom, the instructor or facilitator may choose from a wide variety of materials but presents the information in a linear fashion. However, in an online course, it is largely the participants who determine when and in what sequence they will access course information that is available to them (e.g., Web sites, lectures, readings, discussions).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Accommodating Multiple Learning Styles&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Face-to-face, the instructor may employ a variety of means to delivery training, such as lectures, assigned readings, small-group discussions and task-based learning and other assignments. Online, the instructor and students may be more limited to the written word and would likely rely more heavily on writing and reading responses. To ward against this, online instructors can consciously incorporate different multimedia and collaborative, small-group activities.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Nature Of Discussions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Face-to-face classroom discussions have the potential to be spontaneous and lively, and discussions can take off suddenly in different directions, with unexpected comments or questions. Online, the discussions are more likely to be more reflective and perhaps consider a topic or issue more thoughtfully than in a classroom discussion; here participants have more time to ponder questions and comments posed by the instructor and respond to them when they are ready.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Class Participation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; In a face-to-face class, the instructor may make efforts to engage all participants, calling on individuals by name, for example, for an on-thespot response. Online, participants decide for themselves how actively they will take part in the course. They may interact in different times and even different in time zones, and thus not be participating as one whole group in real-time. The online instructor must take care to elicit comments from all students, including those who may be "quiet" or not very visible.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Clarifying Misunderstandings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; In a face-to-face class, body language (facial expressions, gestures, tone of voice) contributes a great deal to everyone's understanding of the messages conveyed and clarification can be immediate and brief. Online, in contrast, participants and facilitator alike may easily misinterpret the tone or intention of another's remark, and over time, misunderstandings can occur or can become exacerbated. Therefore, it is important for online learners to give the author of a remark the benefit of the doubt, and to follow simple rules of Netiquette, such as not using all capital letters (the equivalent of screaming at someone on the Internet).&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Accommodating Different Personalities&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In a face-to-face course, shy participants, or participants who perceive that their language proficiency is not as strong as that of their colleagues, may refrain from contributing much to class discussions. They may feel that more outgoing or outspoken participants dominate classroom conversations. Online, however, research shows that shy or less-proficient students tend to blossom, as they are given the time they need to formulate their thoughts and feel that they are on a more level playing field, so to speak. As well, discrimination related to age, gender, or other factors does not come into play as heavily in an online class, in which participants usually can neither see nor hear each other.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Course Duration&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Face-to-face classes meet for set periods of time and are relatively brief, compared to online classes. Online, participants need considerably more time to read and respond to comments made in class. Yet, by spanning a longer period of days or weeks, the online class has the potential to incorporate more reflection and practical application, as participants may relate what they are learning in class to what they are doing in the rest of their lives. This contrasts to the one-time workshop, which, research has shown, tends to have less impact on significantly changing a participant's actions. Here, for example, think of the one-off teacher development workshop and its ability to make a significant difference in how the teacher works with his or her learners.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Access&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Face-to-face classes are certainly more familiar to most participants than online courses, and depending on where the learners live and work, they may be easily accessed. However, as participants in professional development courses take on additional responsibilities (work, family and professional development), their schedules may become so impacted that it is nearly impossible to pursue further education. For those participants whose schedules do not easily permit taking a course at a regular schedule, online courses, which can be accessed 24 hours a day, seven days a week, from any computer with an Internet connection, can be a great boon. As well, for those participants who live in remote areas, or who are physically challenged, connecting to an online course may provide access to an education that would otherwise not be possible.&lt;b&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Back button below to &lt;/b&gt;&lt;b&gt;return to the previous slide.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button to advance to the last content slide.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4467">
+            <jumpto>2158</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371172</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4540">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371172</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2160">
+        <prevpageid>2159</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466371445</timecreated>
+        <timemodified>1469201381</timemodified>
+        <title>Course Self-Assessments</title>
+        <contents>&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;After you complete your post to the Discussion (Introductions and Goals), and return to the course outline page, you will see a link to the Pre-Course Self-Assessment activity.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Pre-Course Self-Assessment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Earlier, we noted that it is important to consider your own level of knowledge and understanding of a topic in order to identify your starting point for learning.  A pre-course self-assessment provides this baseline information.  Linked below is a self-assessment for this course in a choice of 2 editable document formats.  Please select one version of the self-assessment to download and save to your computer, then look over the questions it contains.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Intro-Assessment-ABE: Pre-Course Self-Assessment Survey" href="@@PLUGINFILE@@/ABT1-Pre-Courseself-Assessment.rtf" target="_blank"&gt;&lt;em&gt;Assessment Basics Pre-Course-Self-Assessment&lt;/em&gt;&lt;/a&gt; (rtf format - with Table)&lt;/p&gt;
+&lt;p&gt;&lt;a title="Intro-Assessment-ABE: Pre-Course Self-Assessment Survey" href="@@PLUGINFILE@@/ABT1-Pre-Courseself-Assessment.docx" target="_blank"&gt;&lt;em&gt;Assessment Basics Pre-Course Self-Assessment&lt;/em&gt;&lt;/a&gt; (docx format - without Table)&lt;/p&gt;
+&lt;p&gt;You will be asked to upload a completed version of this survey to the course after you post your Introduction and Course goal(s).&lt;/p&gt;
+&lt;p&gt;At the end of this course, you will take a similar survey as a post-course self-assessment. We will ask you to compare your responses on both the pre- and post course self-assessments in order to review the results of your learning. &lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4468">
+            <jumpto>2155</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371445</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4469">
+            <jumpto>2158</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371445</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4544">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466371445</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

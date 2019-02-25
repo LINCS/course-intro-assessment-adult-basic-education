@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="444" moduleid="3142" modulename="label" contextid="3969">
+  <label id="444">
+    <name>NOTE: If a link is grey/unavailable, please review...</name>
+    <intro>&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; If a link is grey/unavailable, please review the previous course activity to be sure it has been completed (marked with a completion checkmark out to the right).&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1437167179</timemodified>
+  </label>
+</activity>

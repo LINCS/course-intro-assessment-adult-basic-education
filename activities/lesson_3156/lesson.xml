@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="202" moduleid="3156" modulename="lesson" contextid="3983">
+  <lesson id="202">
+    <course>97</course>
+    <name>T3R1 Reading: Overview and Types of Summative Assessment </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1467727475</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2172">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2173</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466185082</timecreated>
+        <timemodified>1469135702</timemodified>
+        <title>Topic 3 Overview</title>
+        <contents>&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Summative Assessment – The Standardized Test&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In the last lesson, you became familiar with diagnostic, formative and summative assessment, and what each is used for.  You also explored who the stakeholders are in your program, and which assessments best serve each stakeholder’s needs.  In this lesson, we will focus on one summative assessment that in adult education is typically used for gauging advancement in education and reporting to funders:  the standardized test.  Standardized tests can also be the source of anxiety for many adult basic education students.  Two readings will provide insight into the nature of standardized tests and what teachers can do to help their students prepare to take them successfully. &lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;The Lesson Objectives for Topic 3 are to:  &lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;be able to describe and provide examples of summative assessment;&lt;/li&gt;
+&lt;li&gt;learn commonly used assessment-related terms;&lt;/li&gt;
+&lt;li&gt;read about using test scores to identify strengths and needs;&lt;/li&gt;
+&lt;li&gt;learn about maximizing your students’ ability to perform well on tests;&lt;/li&gt;
+&lt;li&gt;report on progress you have made toward your chosen goal. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;below to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4493">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466185082</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2173">
+        <prevpageid>2172</prevpageid>
+        <nextpageid>2174</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466185200</timecreated>
+        <timemodified>1469135739</timemodified>
+        <title>Types of Summative Assessment</title>
+        <contents>&lt;p&gt;&lt;b&gt;Understanding Standardized Tests&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The article below provides an overview of one of the most common types of summative assessments:  &lt;b&gt;the standardized test.&lt;/b&gt;  Standardized tests are broadly used in education at all ages and levels, and they are used to gauge success in teaching and learning, decide qualifications for advancement in education or employment, and determine levels of funding. This primer from &lt;i&gt;Adventures in Assessment&lt;/i&gt; is a guide for the program administrator and/or classroom teacher on how to effectively use standardized tests to identify student strengths and needs.  &lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" title="A Basic Primer on Standardized Tests" href="@@PLUGINFILE@@/ABT3R1-Primer-StandardizedTests.pdf"&gt;&lt;i style="line-height: 1.231;"&gt;A Basic Primer for Understanding Standardized Tests and Using Test Scores &lt;/i&gt;&lt;/a&gt;(pdf format)&lt;br /&gt;By April Zenisky, Lisa Keller, Stephen G. Sireci; in Adventures in Assessment, Vol. 16, Spring 2004. UMass Amherst&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;As you read, we ask you to consider how you use and might use standardized test scores to identify your students’ strengths and needs. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;If you already do use standardized test scores&lt;/b&gt; &lt;b&gt;to identify strengths and needs&lt;/b&gt;, how would you describe what you do?  How useful is it? How might you change/improve this process?  &lt;b&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;If you don’t currently use standardized test scores in this way&lt;/b&gt;, what are some examples of how you might modify your instruction or program processes to do so? How do you think this change might improve student learning?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4494">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466185200</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4543">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466185200</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2174">
+        <prevpageid>2173</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466185656</timecreated>
+        <timemodified>1508505807</timemodified>
+        <title>Resources for Optional/Further Study </title>
+        <contents>&lt;p&gt;&lt;strong&gt;Topic 3: Summative Assessment – The Standardized Test&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The following resource discusses selecting, developing, administering and scoring high stakes tests. &lt;b style="line-height: 1.231;"&gt;  &lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.apa.org/science/programs/testing/fair-testing.pdf" target="_blank"&gt;&lt;i style="line-height: 1.231;"&gt;Code of Fair Testing Practices&lt;/i&gt; &lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Prepared by the Joint Committee on Testing Practices, American Psychological Association&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4495">
+            <jumpto>2172</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466185656</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4496">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466185656</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4497">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466185656</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

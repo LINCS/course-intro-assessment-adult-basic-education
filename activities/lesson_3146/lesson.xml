@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="199" moduleid="3146" modulename="lesson" contextid="3973">
+  <lesson id="199">
+    <course>97</course>
+    <name>T1R3 Reading/Online Activity: Exploring LINCS</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1467637889</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2163">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2164</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466373271</timecreated>
+        <timemodified>0</timemodified>
+        <title>The LINCS Portal</title>
+        <contents>&lt;p&gt;One overarching goal for this course is to increase your access to and awareness of assessment resources specific to adult literacy education.&lt;/p&gt;
+&lt;p&gt;The federal Literacy, Information and Communication System (LINCS) serves as a portal accessing a wide variety of resources specific to adult education. Throughout this course we provide opportunities to learn about LINCS and LINCS resources – both in general, and specifically relating to assessment topics.&lt;/p&gt;
+&lt;p&gt;To access LINCS: &lt;a href="http://lincs.ed.gov/" target="_blank" style="line-height: 1.231;"&gt;http://lincs.ed.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Why Should You Visit LINCS Regularly?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;LINCS provides you with the information, resources, activities, and network you need to enhance your practice in order to provide your students with high-quality learning opportunities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to&lt;/b&gt;&lt;b&gt; learn more about LINCS.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4475">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466373271</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2164">
+        <prevpageid>2163</prevpageid>
+        <nextpageid>2165</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466373354</timecreated>
+        <timemodified>1488393314</timemodified>
+        <title>Components of LINCS</title>
+        <contents>&lt;p&gt;&lt;b&gt;How can LINCS help you with your work? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;LINCS offers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;a href="https://lincs.ed.gov/professional-development/resource-collection/search-resources" target="_blank"&gt;&lt;b&gt;Resource Collection&lt;/b&gt;&lt;/a&gt; containing high-quality, evidence-based materials in 16 topic areas critical to the field&lt;/li&gt;
+&lt;li&gt;An online &lt;a href="https://community.lincs.ed.gov/" target="_blank"&gt;&lt;b&gt;Community of Practice &lt;/b&gt;&lt;/a&gt;where you can share knowledge and collaborate with your peers&lt;/li&gt;
+&lt;li&gt;A &lt;a href="https://courses.lincs.ed.gov/" target="_blank"&gt;&lt;b&gt;Learning Portal &lt;/b&gt;&lt;/a&gt;where you can engage in self-paced and facilitated professional development courses*&lt;/li&gt;
+&lt;li&gt;A &lt;a href="https://lincs.ed.gov/professional-development/pdc" target="_blank"&gt;&lt;strong&gt;Professional Development Center&lt;/strong&gt;&lt;/a&gt; that provides evidence-based professional development activities*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*This course draws on two of these LINCS components, the Learning Portal and the RPDCs, in order to provide you with an &lt;b style="line-height: 1.231;"&gt;&lt;i&gt;online learning opportunity &lt;/i&gt;&lt;/b&gt;supported by &lt;b style="line-height: 1.231;"&gt;&lt;i&gt;expert facilitation.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b style="line-height: 1.231;"&gt;Click on the Next button below to&lt;/b&gt;&lt;b style="line-height: 1.231;"&gt; learn more about the LINCS Learning Portal.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4476">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466373354</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4477">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466373354</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2165">
+        <prevpageid>2164</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466373593</timecreated>
+        <timemodified>1469202241</timemodified>
+        <title>Exploring the LINCS Portal</title>
+        <contents>&lt;p&gt;&lt;b&gt;The LINCS Learning Portal:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contains over 20 free online interactive courses developed specifically for the adult education field from OCTAE initiatives;&lt;/li&gt;
+&lt;li&gt;Enables users to take and complete self-paced courses on their own schedule;&lt;/li&gt;
+&lt;li&gt;Enables states to provide facilitated online courses free to practitioners;&lt;/li&gt;
+&lt;li&gt;Provides users with a certificate of completion after each course; and&lt;/li&gt;
+&lt;li&gt;Is updated as new courses are developed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Optional Activity: Explore the LINCS Learning Portal&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We invite you to take some time exploring the offerings within the LINCS learning Portal.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What courses look interesting to you? Why?&lt;/li&gt;
+&lt;li&gt;What courses might assist you in developing your understanding and use of effective assessment practices?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To access the list of available courses, click on &lt;a style="line-height: 1.231;" href="http://lincs.ed.gov/learning-portal" target="_blank"&gt;http://lincs.ed.gov/learning-portal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to&lt;/b&gt;&lt;b&gt; complete this reading and access the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4478">
+            <jumpto>2163</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466373593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4479">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466373593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4480">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466373593</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="443" moduleid="3138" modulename="label" contextid="3965">
+  <label id="443">
+    <name>Click on the Topic 1 header below to get started.</name>
+    <intro>&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;Click on the &lt;span style="color: #000000;"&gt;Topic 1&lt;/span&gt; header below to get started.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1437166313</timemodified>
+  </label>
+</activity>

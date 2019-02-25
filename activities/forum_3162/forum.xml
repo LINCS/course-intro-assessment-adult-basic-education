@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="528" moduleid="3162" modulename="forum" contextid="3989">
+  <forum id="528">
+    <type>eachuser</type>
+    <name>T3D3 Discussion: Your LINCS Discussion Groups  </name>
+    <intro>&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Share your experiences with LINCS Discussion groups&lt;i&gt;.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Please share about your LINCS discussion group(s) with peers, addressing one of the following questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;If you have &lt;i&gt;just become&lt;/i&gt; a member of the LINCS Community,&lt;/b&gt; please share with peers which discussion group(s) you joined and why. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;If you were &lt;i&gt;already are&lt;/i&gt; a member of the LINCS Community,&lt;/b&gt; please share with peers which discussion group(s) you are a member of and how you benefit from membership.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After you post, please take time to review others’ posted responses and post at least one reply in response.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Once You Have Completed Your Post:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Click on Intro-Assessment-ABE link at the top (or at left under "my Courses") &lt;/b&gt;to return to the Course Outline and access the next course activity.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>3</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1468615673</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="134" moduleid="3182" modulename="url" contextid="4009">
+  <url id="134">
+    <name>T6A2 Discussion: Final Report on Your Course Goals</name>
+    <intro>&lt;div&gt;
+&lt;p style="margin-left: 30px;"&gt;Share with others the progress you've made toward meeting your course goal(s).  Have you met your goal(s)?  Why or why not?&lt;/p&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://lincs-ovae-moodle-dev.civicactions.net/mod/forum/view.php?id=3141</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1488394924</timemodified>
+  </url>
+</activity>

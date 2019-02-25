@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="451" moduleid="3187" modulename="label" contextid="4014">
+  <label id="451">
+    <name>If the certificate link is grey, please review the...</name>
+    <intro>&lt;p&gt;&lt;span style="font-size: small;"&gt;If the certificate link is grey, please review the previous course activities to be sure they are completed (marked with a completion checkmark out to the right). Contact your facilitator if you have waited more than 48 hours for a 'grade' on your culminating activity.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1436457340</timemodified>
+  </label>
+</activity>

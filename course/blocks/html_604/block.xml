@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="604" contextid="4047" version="2018051400">
+  <blockname>html</blockname>
+  <parentcontextid>3959</parentcontextid>
+  <showinsubcontexts>1</showinsubcontexts>
+  <pagetypepattern>*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>1</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6Mzp7czo1OiJ0aXRsZSI7czo0OiJIZWxwIjtzOjY6ImZvcm1hdCI7czoxOiIxIjtzOjQ6InRleHQiO3M6NjI3OiI8ZGl2IGNsYXNzPSJjb250ZW50Ij4NCjxkaXYgY2xhc3M9Im5vLW92ZXJmbG93Ij4NCjxkaXYgY2xhc3M9ImNvbnRlbnQiPg0KPGRpdiBjbGFzcz0ibm8tb3ZlcmZsb3ciPg0KPHA+VXNlIHRoZSA8ZW0+PHN0cm9uZz5GYWNpbGl0YXRvciBRJmFtcDtBPC9zdHJvbmc+PC9lbT48c3Ryb25nPiBkaXNjdXNzaW9uIGZvcnVtPC9zdHJvbmc+IHRvIGFzayBnZW5lcmFsIHF1ZXN0aW9ucyBhYm91dCB0aGUgY291cnNlLiBZb3UgY2FuIGFsc28gY29udGFjdCB0aGUgY291cnNlIGZhY2lsaXRhdG9yIGF0IFtJbnNlcnQgRmFjaWxpdGF0b3IgZS1tYWlsXTwvcD4NCjxwPkNvbnRhY3QgPGEgaHJlZj0ibWFpbHRvOnN1cHBvcnRAbGluY3MuZWQuZ292Ij5zdXBwb3J0QGxpbmNzLmVkLmdvdjwvYT4gZm9yIHRlY2huaWNhbCBhc3Npc3RhbmNlIG9yIHVzZSB0aGUgPHN0cm9uZz5SZXBvcnQgVGVjaG5pY2FsIElzc3VlPC9zdHJvbmc+PGVtPiA8L2VtPjxzdHJvbmc+YnV0dG9uPC9zdHJvbmc+IG9uIHRoZSB0b3AgcmlnaHQgb2YgdGhlIHNjcmVlbiBmb3IgdGVjaG5pY2FsIGFzc2lzdGFuY2UgZnJvbSB0aGUgTElOQ1MgVGVjaG5pY2FsIFN1cHBvcnQgVGVhbS48L3A+DQo8L2Rpdj4NCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4iO30=</configdata>
+  <timecreated>1549573478</timecreated>
+  <timemodified>1549573478</timemodified>
+  <block_positions>
+    <block_position id="192">
+      <contextid>3959</contextid>
+      <pagetype>course-view-topcoll</pagetype>
+      <subpage></subpage>
+      <visible>1</visible>
+      <region>side-pre</region>
+      <weight>0</weight>
+    </block_position>
+  </block_positions>
+</block>

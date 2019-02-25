@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="254" moduleid="3216" modulename="resource" contextid="4053">
+  <resource id="254">
+    <name>Course Managment, Resources &amp; Permissions</name>
+    <intro>&lt;p&gt;Document containing course session setup sets/guidance, access to course resource  materials and copyright permissions information for all course materials.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>2</revision>
+    <timemodified>1469210032</timemodified>
+  </resource>
+</activity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="208" moduleid="3168" modulename="lesson" contextid="3995">
+  <lesson id="208">
+    <course>97</course>
+    <name>T4 Optional Activity – Try It with Your Learners!</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1468245613</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2187">
+        <prevpageid>0</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466183604</timecreated>
+        <timemodified>1469202992</timemodified>
+        <title>Optional Hands on Activity: Try a Diagnostic or Formative Assessment</title>
+        <contents>&lt;p&gt;Select an assessment activity that you saw in either video that could support your students to improve their learning.  Conduct it with your learners and take notes to share your experience with others. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Select at least one assessment strategy&lt;/b&gt; described in either
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://youtu.be/sphhVIPzJR8?list=PLImUeO1ttx1biHp5fHul5PxtIUIQU-sDd" target="_blank"&gt;&lt;i&gt;ASRP - Teacher/Student Session Introduction&lt;/i&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;&lt;a href="http://link.brightcove.com/services/player/bcpid799570851001?bckey=AQ~~,AAAABAIN5DE~,L2UmrJXAX4qnHP7MHeX0ndaX2i8TOwiL&amp;amp;bclid=794230318001&amp;amp;bctid=1123146148001" target="_blank"&gt;Assessing Learning in the Adult ESL Classroom&lt;/a&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Conduct it with your learners&lt;/b&gt; in the next week or so.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Take notes on your experience to share &lt;/b&gt;with others later in the Course.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;__________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4519">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466183604</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

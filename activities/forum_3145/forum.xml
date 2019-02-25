@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="521" moduleid="3145" modulename="forum" contextid="3972">
+  <forum id="521">
+    <type>eachuser</type>
+    <name>T1D2 Discussion: Assessment to Support Student Learning  </name>
+    <intro>&lt;h3&gt;&lt;b style="line-height: 1.231;"&gt;Responses to &lt;i&gt;Fair Assessment Practices &lt;/i&gt;by Linda Suskie&lt;/b&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;b style="line-height: 1.231;"&gt;Based on your reading, please post your responses to the following questions:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is one thing you learned from this article that you would like to apply to your practice?&lt;/li&gt;
+&lt;li&gt;What questions or concerns does this article raise for you?&lt;/li&gt;
+&lt;li&gt;How does the article support your current assessment or instructional practices?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After you post, please take time to review others posted responses and post at least one reply in response.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;b&gt;Note: &lt;/b&gt;This item will automatically mark itself complete on the main course outline once you have submitted a post.&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b style="line-height: 1.231;"&gt;Reminder: To Post to Discussions:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Click on "Add a new discussion topic.”&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Type your message subject.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Type your message information.  &lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Click on the "Post to Forum" button.&lt;/b&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Once You Have Completed Your Post:&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Click on the Intro-Assessment-ABE link at the top (or at left under "my Courses") &lt;/b&gt;to return to the Course Outline and access the next course activity.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>3</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1466458330</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

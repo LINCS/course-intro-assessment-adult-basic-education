@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="209" moduleid="3171" modulename="lesson" contextid="3998">
+  <lesson id="209">
+    <course>97</course>
+    <name>T5R1 Reading: Topic Overview and Goal Setting   </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>0</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>0</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1468948792</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="2188">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2189</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466103795</timecreated>
+        <timemodified>1469203062</timemodified>
+        <title>Overview</title>
+        <contents>&lt;p&gt;At this point in the course, you should have a good understanding of the different types of assessment, what each is best suited for, and who would benefit most from each type.  You have also briefly explored the importance of involving students in classroom assessment activities, and had the opportunity to view teachers demonstrate a variety of techniques and activities. &lt;/p&gt;
+&lt;p&gt;Now comes the time to pull all this together by providing a structure within which to move forward.  Your structure starts with your course objectives, but it also starts with your students’ reasons for coming to your class:  their goals.  Sound familiar?  You were asked to set at least one goal for yourself in lesson one of this course.  Your students must also establish goals to work toward.  Instruction can then be aligned with their goals to ensure that you are meeting the needs of your students.  Effective assessment is dependent upon having clearly stated course objectives – and student goals - to work toward; otherwise you would not know what to test.  &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Lesson Objectives for Topic 5 are to:   &lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;understand the importance of goal-setting with students;&lt;/li&gt;
+&lt;li&gt;understand the importance of aligning instruction with student goals;&lt;/li&gt;
+&lt;li&gt;select one goal-setting activity to try with students;&lt;/li&gt;
+&lt;li&gt;report on progress you have made toward your chosen goal.&lt;/li&gt;
+&lt;li&gt;Optional: Strengthen your participation in the LINCS CoP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;_____________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below to &lt;/b&gt;&lt;b&gt;below to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4520">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466103795</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2189">
+        <prevpageid>2188</prevpageid>
+        <nextpageid>2190</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466103879</timecreated>
+        <timemodified>1469206179</timemodified>
+        <title>Determining and Meeting Student Goals</title>
+        <contents>&lt;p&gt;At the Center for New Americans in Western Massachusetts, newly enrolled learners set general goals at intake that the staff use in rich and constructive ways in the classroom. Please read the following article written by center staff in which they share their approach to goal-setting and student-centered instruction. As you read, compare their approach with your current practice and how it might work for your learners.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;a href="@@PLUGINFILE@@/ABT5R1-Integrating-Goal-Setting-into-Instructional-Practice508.pdf"&gt;Integrating Goal-Setting into Instructional Practice&lt;/a&gt; &lt;/i&gt;(pdf format)&lt;/p&gt;
+&lt;p&gt;By Center for New Americans in Western Massachusetts; in Adventures in Assessment, System for Adult Basic Education Support Vol 15, Spring 2003&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Based on both the reading and your own experiences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are some of the challenges of working with students to determine and meet their goals? &lt;/li&gt;
+&lt;li&gt;What are some solutions that may address these challenges?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to continue.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4521">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466103879</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4522">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466103879</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2190">
+        <prevpageid>2189</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1466103977</timecreated>
+        <timemodified>1469208409</timemodified>
+        <title>Exploring Goal-setting Activities</title>
+        <contents>&lt;p&gt;Next we ask you to browse the many instruments presented in the &lt;i style="line-height: 1.231;"&gt;Adult Learner Goals Toolkit&lt;/i&gt; linked below. From these instruments, select one goal-setting activity you would like to try with your learners.  Be prepared to share with peers which activity you selected and why. &lt;/p&gt;
+&lt;p&gt;&lt;i style="line-height: 1.231;"&gt;&lt;a title="Adult Learner Goals Toolkit" href="@@PLUGINFILE@@/ABT5R2-AdultLearnerGoalsToolkit.pdf"&gt;Adult Learner Goals Toolkit&lt;/a&gt;  &lt;/i&gt;(pdf format)&lt;br /&gt;Jane Miller, Colorado Department of Education, Adult Education and Family Literacy Office, 2004*&lt;/p&gt;
+&lt;p&gt;&lt;b style="line-height: 1.231;"&gt;Questions for Discussion:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Which activity did you select from the Adult Learner Goals Toolkit to try with your learners? [Briefly describe the activity for your peers.]&lt;/li&gt;
+&lt;li&gt;Why did you choose this activity?  What do you hope to learn from using it? How might it support instruction?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;________________________________________________________________________&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;*This pdf version has been modified for 508 compliance and permission was obtained to host in on the LINCS Online Course Portal for restricted access. The original was obtained online here: &lt;span style="line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"&gt;&lt;a href="http://www.cde.state.co.us/sites/default/files/documents/cdeadult/download/pdf/goalstoolkitr.pdf"&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style="line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"&gt;&lt;a href="http://www.cde.state.co.us/sites/default/files/documents/cdeadult/download/pdf/goalstoolkitr.pdf"&gt;http://www.cde.state.co.us/sites/default/files/documents/cdeadult/download/pdf/goalstoolkitr.pdf&lt;/a&gt;&lt;/span&gt;&lt;b&gt;&lt;span style="line-height: 107%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;Click on the Next button below&lt;/b&gt;&lt;b&gt; to return to the Course Outline.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4523">
+            <jumpto>2188</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466103977</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4524">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466103977</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4525">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1466103977</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>
